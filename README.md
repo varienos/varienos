@@ -15,7 +15,9 @@ I've delivered projects for municipal governments, healthcare groups, logistics 
 ### Backend
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter_4-EF4223?style=flat&logo=codeigniter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
@@ -40,20 +42,15 @@ I've delivered projects for municipal governments, healthcare groups, logistics 
 ### AI & Tooling
 
 ![Claude](https://img.shields.io/badge/Claude-D4A574?style=flat&logo=anthropic&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
----
+### Design
 
-### Notable Open Source
-
-**[mysql-backup](https://github.com/varienos/mysql-backup)** — Streaming MySQL backups in PHP with gzip compression and deterministic batching. Built for large production databases where `mysqldump` isn't enough.
-
-**[cc-openai-prompt-rewriter](https://github.com/varienos/cc-openai-prompt-rewriter)** — A Claude Code hook that routes prompts through OpenAI for rewriting and sanitization before execution.
-
-**[device-detector-js](https://github.com/varienos/device-detector-js)** — Modern device detection with Client Hints support. Handles edge cases like iPad desktop mode that most libraries miss.
-
-**[cc-sessions](https://github.com/varienos/cc-sessions)** — An opinionated workflow for productive development sessions with Claude Code.
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
 
 ---
 
