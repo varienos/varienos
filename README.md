@@ -2,6 +2,9 @@
 
 **Sr. Full-Stack Developer** at **Varien Software Inc.** · Izmir, Turkey
 
+[![Website](https://img.shields.io/badge/varien.com.tr-000000?style=flat&logo=safari&logoColor=white)](https://varien.com.tr)
+[![GitHub](https://img.shields.io/badge/varienos-181717?style=flat&logo=github&logoColor=white)](https://github.com/varienos)
+
 ---
 
 I run a software agency with over 15 years in the industry. My daily work sits at the intersection of PHP backends, React Native mobile apps, and the tooling that ties them together. When something I need doesn't exist, I build it — most of my open source work comes from exactly that habit.
@@ -53,5 +56,3 @@ I've delivered projects for municipal governments, healthcare groups, logistics 
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
 
 ---
-
-[varien.com.tr](https://varien.com.tr)
