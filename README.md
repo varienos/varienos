@@ -27,6 +27,7 @@ I've delivered projects for municipal governments, healthcare groups, logistics 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=flat&logo=composer&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat&logo=fastapi&logoColor=white)
 
