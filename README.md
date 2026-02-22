@@ -2,7 +2,9 @@
 
 **Sr. Full-Stack Developer** at **Varien Software Inc.** · Izmir, Turkey
 
-[![Website](https://img.shields.io/badge/varien.com.tr-000000?style=flat&logo=safari&logoColor=white)](https://varien.com.tr)
+[![Website](https://img.shields.io/badge/varien.software-000000?style=flat&logo=safari&logoColor=white)](https://varien.software)
+[![LinkedIn](https://img.shields.io/badge/varienos-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varienos/)
+[![Instagram](https://img.shields.io/badge/varienos-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/varienos)
 [![GitHub](https://img.shields.io/badge/varienos-181717?style=flat&logo=github&logoColor=white)](https://github.com/varienos)
 
 ---
@@ -64,5 +66,3 @@ I've delivered projects for municipal governments, healthcare groups, logistics 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
-
----
